@@ -4,6 +4,8 @@
 
 Add your next Google Calendar event to the to your TMUX status line.
 
+IMPORTANT: Only for Linux x86-64 at the moment
+
 ## Installation
 
 1) Add to your `.tmux.conf`:
